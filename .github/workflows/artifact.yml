@@ -1,6 +1,6 @@
 name: Artifact
 
-on: []
+on: [pull_request]
 #on: [push]
 
 env:
