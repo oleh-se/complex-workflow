@@ -1,6 +1,7 @@
 name: Challenge3
 
-on: [push]
+on: []
+#on: [push]
 
 jobs:
   test:
